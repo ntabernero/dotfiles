@@ -1,4 +1,4 @@
-# gilday dotfiles
+# ntabernero dotfiles
 
 configures my shell to be awesome. supports OS X Mavericks, Cygwin, and Ubuntu. CentOS in progress
 

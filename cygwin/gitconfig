@@ -1,6 +1,6 @@
 [user]
-	name = Johnathan Gilday
-	email = me@johnathangilday.com
+	name = ntabernero
+	email = me@ntabernero.com
 [alias]
 	s = status
 [color]
@@ -14,7 +14,7 @@
 [diff]
     tool = kdiff3
 [credential]
-    helper = !'/cygdrive/C/Users/jgilday/AppData/Roaming/GitCredStore/git-credential-winstore.exe'
+    helper = !'/cygdrive/C/Users/ntabernero/AppData/Roaming/GitCredStore/git-credential-winstore.exe'
 [core]
     ignorecase = false
 [push]

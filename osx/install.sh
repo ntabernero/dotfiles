@@ -3,7 +3,7 @@
 # Installs the dotfiles to the home directory
 # Note this is untested
 
-git clone git@github.com:gilday/dotfiles.git
+git clone git@github.com:ntabernero/dotfiles.git
 
 ln -s dotfiles/osx/bash_profile .bash_profile
 ln -s dotfiles/bash_aliases .bash_aliases

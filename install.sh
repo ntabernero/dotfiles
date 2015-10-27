@@ -52,6 +52,7 @@ link 'gitconfig'
 link 'inputrc'
 link 'screenrc'
 link 'gradle.properties' 'gradle'
+link 'tmux.conf'
 
 echo 'Set color scheme'
 if [ ! -e "$HOME/.dircolors" ]; then
